@@ -17,15 +17,20 @@
 - LAMP从入门到精通.mobi
 - Linux Shell脚本攻略（第2版） (图灵程序设计丛书 74) [印]Shantanu Tushar (作者), 门佳 (译者) .azw3
 - Linux 初步作者 李春 李罡.azw3
-- Linux内核API完全参考手册.z01
-- Linux内核API完全参考手册.zip
-- Linux就该这么学.z01
-- Linux就该这么学.zip
+- Linux内核API完全参考手册.mobi
 - Linux系统命令及Shell脚本实践指南.azw
 - 《Linux内核精髓：精通Linux内核必会的75个绝技 》作者_ (日)高桥 浩和 杨婷 (译者.azw3
 - 深入理解Nginx：模块开发与架构解析》陶辉.azw3
 - 鸟哥的Linux私房菜 基础学习篇(第三版).azw3
 - 深度探索Linux操作系统：系统构建和原理解析 - 王柏生.mobi
+- Linux就是这个范儿 .mobi
+- 鸟哥的Linux私房菜——基础学习篇（第四版） - 鸟哥.mobi
+- 精通Linux（第2版） - [美] Brian Ward.mobi
+- Linux命令行大全 .mobi
+- 实战Nginx_取代Apache的高性能Web服务器 - 张宴.mobi
+- Linux入门很简单 - 刘金鹏 等.azw3
+- Linux Shell命令行及脚本编程实例详解 - 刘艳涛.mobi
+- Linux Shell脚本攻略（第2版）.azw3
 
 ----
 ## Safe
