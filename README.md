@@ -8,6 +8,8 @@
 
 ## 欢迎star、Issue
 
+## 使用方法：下载想看的单本(单个文件)，用邮箱发送到kindle，azw3等格式可以在线转换。
+
 ---
 
 # 以下是书籍目录
@@ -91,7 +93,6 @@
 - 算法精解：C语言描述 .mobi
 - 征服C指针- 前桥和弥.mobi
 - 深入理解C指针 (图灵程序设计丛书) .mobi
-- C++编程思想（两卷合订本）.azw3
 - 编程精粹_编写高质量C语言代码 .mobi
 
 --------
@@ -107,6 +108,7 @@
 - HTTP权威指南.azw3
 - 《深入理解Bootstrap (Web开发技术丛书)》作者_ 徐涛 自购.azw3
 - 响应式Web设计：HTML5和CSS3实战 Ben Frain.azw3
+- 深入理解Bootstrap (Web开发技术丛书)-徐涛 著.mobi
 
 -----
 ## Java
@@ -114,12 +116,24 @@
 - 深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）.azw3
 - 编写高质量代码：改善Java程序的151个建议.azw3
 - 零基础学Java第2版-陈浩.mobi
+- Java编程思想-第4版.mobi
+- Java EE 6 Pocket Guide - ArunGupta.mobi
+- Java入门经典(第6版) (计算机编程入门经典系列 35) - [美]Rogers Cadenhead.mobi
+- 编写高质量代码：改善Java程序的151个建议.mobi
 
 -----
 ## JavaScript--------前端
-- JavaScript和jQuery实战手册(原书第2版).epub
 - JavaScript权威指南第六版.mobi
 - Node.js开发指南.mobi
+- JavaScript基础教程(第8版).mobi
+- AngularJS实战 - 陶国荣 著.mobi
+- Javascript精粹 - V.mobi
+- jQuery权威指南(第2版).mobi
+- 锋利的jQuery(第2版)-单东林.mobi
+- JavaScript和jQuery实战手册.mobi
+- Node.js 实战【葡】Pedro Teixeira 著.mobi
+- Node.js开发指南 - 郭家宝(BYVoid).mobi
+- 深入浅出Node.js - 朴灵.mobi
 
 
 ----
@@ -135,6 +149,7 @@
 - 《TCP_IP路由技术(第1卷)(第2版)》作者_ 多伊尔 (作者), 葛建立 (译者), 吴剑章 (译者.azw3
 - TCP-IP详解卷1：协议.mobi
 - TCP-IP详解卷3：TCP事务协议，HTTP，NNTP和UNIX域协议.mobi
+- 图解HTTP - 上野宣于均良.mobi
 
 
 
