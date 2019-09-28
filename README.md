@@ -104,11 +104,20 @@
 ## HTML+CSS------前端
 - CSS禅意花园.azw3
 - CSS设计指南(第3版).azw3
-- HTML5与CSS3基础教程(第7版) (图灵程序设计丛书).azw3
-- HTTP权威指南.azw3
-- 《深入理解Bootstrap (Web开发技术丛书)》作者_ 徐涛 自购.azw3
-- 响应式Web设计：HTML5和CSS3实战 Ben Frain.azw3
+- HTML5与CSS3基础教程(第7版) .mobi
+- 响应式Web设计：HTML5和CSS3实战.mobi
 - 深入理解Bootstrap (Web开发技术丛书)-徐涛 著.mobi
+- CSS权威指南第三版 - Eric Meyer.mobi
+- 图解CSS3：核心技术与案例实战.mobi
+- 疯狂HTML 5_CSS 3_JavaScript讲义 - 李刚.mobi
+- 图解CSS3：核心技术与案例实战.mobi
+- HTML5秘籍.mobi
+- HTML 5开发精要与实例详解 - 陆凌牛.mobi
+- HTML5移动Web开发指南 - 唐俊开.mobi
+- HTML 5与CSS 3权威指南（第2版·上册） - 陆凌牛.mobi
+- HTML 5与CSS 3权威指南（第2版·下册） - 陆凌牛.mobi
+- CSS_HTML语法与范例详解词典 - 符旭凌.mobi
+- 轻量级Web应用开发.mobi
 
 -----
 ## Java
@@ -150,6 +159,7 @@
 - TCP-IP详解卷1：协议.mobi
 - TCP-IP详解卷3：TCP事务协议，HTTP，NNTP和UNIX域协议.mobi
 - 图解HTTP - 上野宣于均良.mobi
+- HTTP权威指南.azw3
 
 
 
